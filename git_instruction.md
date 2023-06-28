@@ -51,4 +51,3 @@ git switch <имя ветки>
 ```
 git merge <имя ветки для слияния>
 ```
-pa pa pa
