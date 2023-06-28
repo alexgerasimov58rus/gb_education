@@ -51,4 +51,4 @@ git switch <имя ветки>
 ```
 git merge <имя ветки для слияния>
 ```
-bla bla bla
+op op op 
